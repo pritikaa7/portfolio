@@ -1,0 +1,23 @@
+
+body{
+    background-color: bisque;
+    font-family: "Josephin Sans", arial;
+    h1{
+        background-color: lightgreen;
+        font-family: "Josephin Sans", arial;
+    }
+    .odd{
+        background-color: pink;
+        font-family: "Josephin Sans", arial;
+    }
+    h2{
+        text-shadow: 1px 1px 3px;
+    }
+    #box1{
+        width: 100px;
+        height: 100px;
+        background-color: lightcoral;
+        box-shadow: 3px,3px 4px lightcoral;
+
+    }
+}
